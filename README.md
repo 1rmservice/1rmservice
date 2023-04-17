@@ -1,4 +1,5 @@
 
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=1rm_Overview&height=200&fontSize=30&fontColor=black)
 
 <b>⚡ Goal ⚡</b> <br />  
@@ -78,9 +79,12 @@ AI DX Provider
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)<br />  <br />  <br />  
 
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1rmservice&show_icons=true&theme=radical) <br />  <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkdfo&langs_count=8)](https://github.com/zztkdfo/github-readme-stats) -->
 
 <!--
 **1rmservice/1rmservice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
